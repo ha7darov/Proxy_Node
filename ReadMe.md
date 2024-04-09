@@ -2,9 +2,6 @@
 
 ---
 
-## [Proxy Server Live]()
-
----
 # How To Run
 
 - ## 1. ___Package Download___
