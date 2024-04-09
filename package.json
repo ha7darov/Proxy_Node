@@ -1,0 +1,17 @@
+{
+  "name": "proxy_node",
+  "version": "1.0.0",
+  "description": "Proxy NodeJs Server",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index"
+  },
+  "author": "KHaydarov",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
