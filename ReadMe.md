@@ -6,10 +6,6 @@
 
 - ## 1. ___Package Download___
 ```bash
-npm init
-```
-
-```bash
 npm i
 ```
 
